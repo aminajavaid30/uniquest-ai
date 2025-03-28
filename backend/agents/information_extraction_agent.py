@@ -51,11 +51,3 @@ info_extraction_agent = Agent(
     show_tool_calls=True,
     debug_mode=True
 )
-
-
-# link = "https://www.ml.cmu.edu/academics/machine-learning-phd.html"
-# # Run agent and return the response as a variable
-# prompt = f"Search for the admission and program related information from the following link: {link}"
-# response: RunResponse = info_extraction_agent.run(prompt)
-# # Print the response in markdown format
-# pprint_run_response(response, markdown=True)
