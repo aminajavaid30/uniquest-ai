@@ -125,16 +125,7 @@ if st.session_state.result_json:
     # Display universities information
     response = st.session_state.result_json.get("response")
 
-    # universities = json.loads(response["universities"])
-    # links = response["links"]
-    # information = response["information"]
-    # processed_info = json.loads(response["processed_info"])
     processed_info = response["processed_info"]
-
-    # st.write(universities)
-    # st.write(links)
-    # st.write(information)
-    # st.write(processed_info)
 
     json_info = json.loads(processed_info)
 
