@@ -48,11 +48,3 @@ university_search_agent = Agent(
     show_tool_calls=True,
     debug_mode=True
 )
-
-
-# university_search_agent.print_response("Search for 5 top universities for PhD in Artificial Intelligence based in USA.", stream=True)
-
-# # Run agent and return the response as a variable
-# response: RunResponse = university_search_agent.run("Search for 10 top universities for a PhD in Artificial Intelligence based in USA.")
-# # Print the response in markdown format
-# pprint_run_response(response, markdown=True)
