@@ -2,6 +2,8 @@
 
 UniQuestAI is an **AI-powered multi-agent system** designed to help students efficiently discover and explore **university admissions** worldwide. By leveraging **agentic AI workflows**, UniQuestAI automates the tedious process of searching, extracting, and compiling university admission-related information, allowing students to focus on **preparing applications and gathering necessary documents**.
 
+<img src="images/uniquest_ai.png">
+
 ## 🚀 Features
 - **Search Top Universities** based on discipline, education level, and location
 - **Extract Admission & Program Details** automatically
