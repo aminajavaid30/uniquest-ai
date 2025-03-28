@@ -48,6 +48,8 @@ UniQuestAI is built as a **multi-agent collaborative system** where four special
 3. **Information Extraction Agent** – Extracts key admission requirements and program details such as GRE/IELTS requirements, deadlines, fees, etc.
 4. **Information Processing Agent** – Organizes extracted data and formats it into an JSON format for further processing.
 
+<img src="images/uniquest_ai.drawio.png">
+
 ## 🔧 Installation & Setup
 ### Prerequisites
 - Python 3.8+
