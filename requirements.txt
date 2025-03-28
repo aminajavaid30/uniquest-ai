@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+pandas
+openpyxl
+agno
+requests
+beautifulsoup4
+googlesearch-python
+pycountry
+sqlalchemy
