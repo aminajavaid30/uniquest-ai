@@ -45,11 +45,3 @@ program_search_agent = Agent(
     show_tool_calls=True,
     debug_mode=True
 )
-
-
-# universities = ["https://www.cmu.edu", "https://www.mit.edu", "https://www.berkeley.edu", "https://www.stanford.edu", "https://www.gatech.edu"]
-# # Run agent and return the response as a variable
-# prompt = f"Search for the admission and program page links for a PhD in Artificial Intelligence for the following universities: {universities}"
-# response: RunResponse = program_search_agent.run(prompt)
-# # Print the response in markdown format
-# pprint_run_response(response, markdown=True)
